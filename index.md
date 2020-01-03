@@ -1,6 +1,6 @@
 ---
 title: Alex Eagle
-layout: post
+layout: home
 ---
 
 > Last updated January 2020
@@ -34,13 +34,11 @@ Led Google-scale infrastructure to run continuous integration for nearly all Goo
 
 ## Google, 11 years
 
-Software Engineer Level 5
-
-|                   |  Perf rating  |
-| ----------------- | ------------- |
-| 2016 Q3 - 2017 Q1 | Exceeds Expectations |
-| 2017 Q3 - 2018 Q3 | Strongly Exceeds |
-| 2019 Q1 - Q3      | Superb |
+| Software Eng Level 5 |  Perf rating  |
+| -------------------- | ------------- |
+| 2016 Q3 – 2017 Q1    | Exceeds Expectations |
+| 2017 Q3 – 2018 Q3    | Strongly Exceeds |
+| 2019 Q1 – Q3         | Superb |
 
 #### Bazel JavaScript
 
@@ -70,6 +68,10 @@ This service automatically injests event data from all Bazel executions and pres
 Allows more intuitive comprehension of build and test failures, troubleshooting slow builds, sharing permalink when requesting help.
 
 Tech Lead for one year
+
+## Prior to Google
+
+See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment history 1997-2008.
 
 # Education
 
