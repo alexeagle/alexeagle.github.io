@@ -1,5 +1,4 @@
 ---
-title: Alex Eagle
 layout: home
 ---
 
