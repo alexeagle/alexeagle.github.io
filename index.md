@@ -40,13 +40,13 @@ Led Google-scale infrastructure to run continuous integration for nearly all Goo
 | 2017 Q3 – 2018 Q3    | Strongly Exceeds |
 | 2019 Q1 – Q3         | Superb |
 
-#### Bazel JavaScript
+### Bazel JavaScript
 
 [Bazel] is a general-purpose build tool used for all nearly software at Google.
 
 I wrote the JavaScript plugin (rules), including Node.js layer, TypeScript and Angular support.
 
-#### Angular
+### Angular
 
 Tech Lead for Angular CLI and Tooling (1.5M users).
 
@@ -54,15 +54,15 @@ Led DevInfra work such as syncing code changes between GitHub and Google-interna
 
 Converted Angular to TypeScript and to build with Bazel.
 
-#### TypeScript
+### TypeScript
 
 Founding member of team that implemented TypeScript as a supported language in Google.
 
-#### Google-wide continuous integration
+### Google-wide continuous integration
 
 TAP, Tech Lead for two years
 
-#### Bazel Results UI
+### Bazel Results UI
 
 This service automatically injests event data from all Bazel executions and presents results in a GUI.
 Allows more intuitive comprehension of build and test failures, troubleshooting slow builds, sharing permalink when requesting help.
