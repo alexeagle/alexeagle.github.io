@@ -1,1 +1,8 @@
 theme: minima
+title: Alex Eagle
+minima:
+  social_links:
+    twitter: jakeherringbone
+    github: alexeagle
+    dev.to: jakeherringbone
+    medium: @jakeherringbone
