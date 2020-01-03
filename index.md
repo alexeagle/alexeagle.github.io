@@ -3,11 +3,11 @@ title: Alex Eagle
 layout: home
 ---
 
-> Last updated January 2020
-
 🐙 [github.com/alexeagle](https://github.com/alexeagle)
 |
 🐦 [twitter.com/jakeherringbone](http://twitter.com/jakeherringbone)
+
+> Last updated January 2020
 
 # Summary
 
@@ -44,7 +44,9 @@ Led Google-scale infrastructure to run continuous integration for nearly all Goo
 
 [Bazel] is a general-purpose build tool used for all nearly software at Google.
 
-I wrote the JavaScript plugin (rules), including Node.js layer, TypeScript and Angular support.
+I wrote the Angular support used both internally and publicly. I also wrote the public version of JavaScript plugin (rules), including Node.js runtime and TypeScript compilation.
+
+See [rules_nodejs contributors](https://github.com/bazelbuild/rules_nodejs/graphs/contributors)
 
 ### Angular
 
