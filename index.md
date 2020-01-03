@@ -1,3 +1,8 @@
+---
+theme: minima
+title: Alex Eagle
+---
+
 # Summary
 
 > Last updated January 2020
@@ -14,7 +19,8 @@ Added JavaScript support to Bazel build tool, allowing development of Web and No
 
 # Work Experience
 
-## Google (11 years)
+## Google
+_11 years_
 
 Software Engineer Level 5
 
@@ -24,18 +30,18 @@ Perf ratings
 - 2017 Q3 - 2018 Q3: Strongly Exceeds
 - 2019 Q1 - Q3: Superb
 
-## Bazel JavaScript
+### Bazel JavaScript (3 years)
 
 (Bazel)[https://bazel.build] is a general-purpose build tool used for all nearly software at Google.
 
 I wrote the JavaScript plugin (rules), including Node.js layer, TypeScript and Angular support.
 
-## Angular
+### Angular (3 years)
 
 Tech Lead for Angular CLI and Tooling (1.5M users)
 Converted Angular to TypeScript
 
-## TypeScript
+### TypeScript
 
 Founding member of team that implemented TypeScript as a supported language in Google
 
