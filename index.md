@@ -1,5 +1,6 @@
 ---
 title: Alex Eagle
+layout: post
 ---
 
 > Last updated January 2020
