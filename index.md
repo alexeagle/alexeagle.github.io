@@ -93,16 +93,17 @@ See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment 
 
 **Conference Talks**
 
-- BazelCon 2019 _Video not yet available_
-- ng-conf 2019: The Bazel opt-in preview is here [Video](https://www.youtube.com/watch?v=J1lnp-nU4wM)
-- BazelCon 2018: Building Large Angular Apps with Bazel [Video](https://www.youtube.com/watch?v=yBg9zG6ZGb4)
-- ng-conf 2018: Full Stack development with Nx and Bazel [Slides](https://docs.google.com/presentation/d/1fSZwcpO9hUBFd_k9hUS45ZyVJcZLEyz0VxISSOnIZ1I/preview) [Video](https://www.youtube.com/watch?v=1KDDIhcQORM) _(April 2018)_
-- Google Cloud Next: Building Apps Like Google with Angular, Bazel, and GCP [Video](https://www.youtube.com/watch?v=lDyIc2Abkwg) _(April 2019)_
-- AngularMIX: Develop Angular like Google Does [Slides](https://docs.google.com/presentation/d/1b0PdG-bxN0nwHa3ZuA0a_anOEYeMoI_CSsZl6ngZWp8/preview?slide=id.g26d86d3325_0_0) _(October 2018)_
+- BazelCon 2019: Bazel Migration Patterns [🎬](https://www.youtube.com/watch?v=UwuRGpVpmbo&list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj&index=35&t=0s)
+- BazelCon 2019: Lightning talk "Why not to have Bazel Dependencies [🎬](https://www.youtube.com/watch?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj&v=2KzOLddhdoI)
+- ng-conf 2019: The Bazel opt-in preview is here [🎬](https://www.youtube.com/watch?v=J1lnp-nU4wM)
+- BazelCon 2018: Building Large Angular Apps with Bazel [🎬](https://www.youtube.com/watch?v=yBg9zG6ZGb4)
+- ng-conf 2018: Full Stack development with Nx and Bazel [📚](https://docs.google.com/presentation/d/1fSZwcpO9hUBFd_k9hUS45ZyVJcZLEyz0VxISSOnIZ1I/preview) [🎬](https://www.youtube.com/watch?v=1KDDIhcQORM) _(April 2018)_
+- Google Cloud Next: Building Apps Like Google with Angular, Bazel, and GCP [🎬](https://www.youtube.com/watch?v=lDyIc2Abkwg) _(April 2019)_
+- AngularMIX: Develop Angular like Google Does [📚](https://docs.google.com/presentation/d/1b0PdG-bxN0nwHa3ZuA0a_anOEYeMoI_CSsZl6ngZWp8/preview?slide=id.g26d86d3325_0_0) _(October 2018)_
 
 **Meetup Talks**
 
-- ModernWeb Meetup: Layering in JS tooling [Slides](https://hackmd.io/p/HJZ_ekxuN) [Video](https://drive.google.com/file/d/1AxrwjLUf_35Z2C9VK5Ut7wo5L89roHH2/view) _(March 2019)_
-- AngularNYC Meetup: Bazel in Angular CLI [Video](https://www.youtube.com/watch?v=fEUgZopCK8E) [Slides](https://docs.google.com/presentation/d/1VcSkWDFkmkZKCP9yTfKbq-lTMU3qW_3zNabKItCWDec/preview) _(January 2019)_
+- ModernWeb Meetup: Layering in JS tooling [📚](https://hackmd.io/p/HJZ_ekxuN) [🎬](https://drive.google.com/file/d/1AxrwjLUf_35Z2C9VK5Ut7wo5L89roHH2/view) _(March 2019)_
+- AngularNYC Meetup: Bazel in Angular CLI [🎬](https://www.youtube.com/watch?v=fEUgZopCK8E) [📚](https://docs.google.com/presentation/d/1VcSkWDFkmkZKCP9yTfKbq-lTMU3qW_3zNabKItCWDec/preview) _(January 2019)_
 
 [Bazel]: https://bazel.build
