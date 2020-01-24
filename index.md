@@ -15,15 +15,16 @@ developer productivity via toolchain ergonomics,
 refined developer experience, 
 and expert tooling.
 
+Professional programmer for 23 years.
+
 Open-source advocate and public speaker.
 
 # Achievements
 
-Created [Error Prone](https://errorprone.info), a static analysis plugin for the Java compiler.
-This fixed or prevented thousands of bugs, with dozens of contributed strictness checks.
-Developed MapReduce infrastructure to refactor all Google Java code, used prior to rolling out new checks.
+Created [Error Prone](https://errorprone.info), a static analysis plugin for the Java compiler that detects many classes of programming mistakes.
+While working with [Findbugs](http://findbugs.sourceforge.net/) author, I realized we could host the analysis in the compiler compiler. Rolled out across Google monorepo by creating a MapReduce framework that runs the compiler in "fix mode" across all compilations in parallel. Became a staffed team with over 600 checks and has prevented thousands of bugs including some severe ones.
 
-Added JavaScript support to the [Bazel] build tool, allowing development of Web and Node.js server apps.
+Added [JavaScript support](https://github.com/bazelbuild/rules_nodejs) to the [Bazel] build tool, allowing development of Web and Node.js server apps.
 
 Migrated the Angular project to TypeScript, made TypeScript an official Google language and wired Angular development into Google's toolchain.
 
