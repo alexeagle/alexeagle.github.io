@@ -71,9 +71,14 @@ Allows more intuitive comprehension of build and test failures, troubleshooting 
 
 Tech Lead for one year
 
-## Prior to Google
+## Opower, 1 year
 
-See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment history 1997-2008.
+As employee #2 I got to build the UI for the company's flagship "Home energy reports" product.
+This was rendered onto paper and served by the US Postal Service!
+The company was later acquired by Oracle for $50M
+
+## Earlier employment
+See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment history 1997-2007.
 
 # Education
 
