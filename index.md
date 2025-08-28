@@ -4,33 +4,42 @@ layout: home
 
 🐙 [github.com/alexeagle](https://github.com/alexeagle)
 |
-🐦 [twitter.com/jakeherringbone](http://twitter.com/jakeherringbone)
+⤵️ [in/alexeagle](https://www.linkedin.com/in/alexeagle/)
 
-> Last updated January 2020
+> Last updated August 2025
 
 # Summary
 
-Googler since 2008, passionate about 
-developer productivity via toolchain ergonomics, 
-refined developer experience, 
-and expert tooling.
+World-class Expert and Community Lead for the Bazel build system, https://bazel.build.
 
-World-class Expert in Bazel build system, https://bazel.build
+Developer Productivity expert and evangelist.
 
-Professional programmer for 23 years.
+Team-builder, writer, Open-Source advocate and public speaker.
 
-Open-source advocate and public speaker.
+# Credentials
+
+- *1995* - Boy Scouts of America: Eagle Scout
+- *2001* - Harvard: B.A. in Computer Science, Magna Cum Laude
 
 # Major Achievements
 
-Created [Error Prone](https://errorprone.info), a static analysis plugin for the Java compiler that detects many classes of programming mistakes.
-While working with [Findbugs](http://findbugs.sourceforge.net/) author, I realized we could host the analysis in the compiler itself. Rolled out stricter compiler across Google monorepo by creating a MapReduce framework that runs the compiler in "fix mode" across all compilations in parallel. This effort became a staffed team, has over 600 checks and has prevented thousands of bugs including some severe ones.
+Making Bazel universally adoptable.
+- Founded Aspect.build, a premier services and SaaS company in Developer Tooling.
+- Host the [Aspect Insights podcast](https://podcasts.apple.com/us/podcast/aspect-insights/id1765600258) about Bazel and its ecosystem.
+- Brought the Bazel conference and technical projects to Linux Foundation.
+- Authored or co-authored many language extensions, including JavaScript/TypeScript, Docker/OCI, as well as utilities such as tar.
+- Organize and lead the community, mentor contributors and steer evolution and design.
+- Supporting thousands of users including dozens of large enterprises.
 
-Added [JavaScript support](https://github.com/bazelbuild/rules_nodejs) to the [Bazel] build tool, allowing development of Web and Node.js server apps. Open-sourced Google's TypeScript/Angular build and serve toolchain. This has thousands of users including some large enterprises.
+Created [Error Prone](https://errorprone.info).
+- A static analysis plugin for the Java compiler that detects many classes of programming mistakes.
+- Rolled out stricter compiler across Google monorepo by creating a MapReduce framework that runs the compiler in "fix mode" across all compilations.
+- This effort became a staffed team, has over 600 checks and has prevented thousands of bugs including severe production outages.
 
-Migrated the Angular project to TypeScript, made TypeScript an official Google language and wired Angular development into Google's toolchain.
-
-Led Google-scale infrastructure to run continuous integration for nearly all Google projects and GUI to show all build and test results.
+Angular CLI Tech Lead
+- Founding member of team to make TypeScript an official Google language and wired Angular development into Google's toolchain.
+- Migrated the Angular project to TypeScript
+- Managed Angular releases
 
 # Work Experience
 
@@ -41,15 +50,6 @@ Led Google-scale infrastructure to run continuous integration for nearly all Goo
 | 2016 Q3 – 2017 Q1    | Exceeds Expectations |
 | 2017 Q3 – 2018 Q3    | Strongly Exceeds |
 | 2019 Q1 – Q3         | Superb |
-
-### BazelWeb
-
-[Bazel] is a general-purpose build tool used for all nearly software at Google.
-
-I wrote the Angular support used both internally and publicly. I also wrote the public version of JavaScript plugin (rules), including Node.js runtime, TypeScript compilation, and serving and testing integration. This is a comprehensive set of integrations for building and testing complete full-stack applications.
-
-According to Google's metrics, rules_nodejs is the most popular Bazel plugin, with over 20k daily downloads.
-A summary of my work is on [rules_nodejs contributors](https://github.com/bazelbuild/rules_nodejs/graphs/contributors)
 
 ### Angular
 
@@ -89,11 +89,6 @@ The company was later acquired by Oracle for $50M
 ## Earlier employment
 See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment history 1997-2007.
 
-# Education
-
-- Harvard: B.A. in Computer Science, Magna cum Laude _(2001)_
-- Boy Scouts of America: Eagle Scout
-
 # Talks and Publications
 
 **Blog**
@@ -107,6 +102,8 @@ See my [LinkedIn profile](https://www.linkedin.com/in/alexeagle) for employment 
 - Testing on the Toilet: [Change-Detector Tests Considered Harmful](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html) _(January 2015; Won "flushy" award for top 4 articles of the year.)_
 
 **Conference Talks**
+
+Most of my talks are listed on https://www.aspect.build/resources
 
 - BazelCon 2019: Bazel Migration Patterns [🎬](https://www.youtube.com/watch?v=UwuRGpVpmbo&list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj&index=35&t=0s)
 - BazelCon 2019: Lightning talk "Why not to have Bazel Dependencies [🎬](https://www.youtube.com/watch?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj&v=2KzOLddhdoI)
